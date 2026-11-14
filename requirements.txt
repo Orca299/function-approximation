@@ -1,0 +1,7 @@
+# Requirements for Project_code.py (latest versions on PyPI as of 14 Nov 2026)
+# Needs Python 3.12 or newer (numpy 2.5.x requires it)
+numpy==2.5.4
+pandas==3.1.1
+matplotlib==3.11.2
+scikit-learn==1.9.1
+tensorflow==2.21.0
